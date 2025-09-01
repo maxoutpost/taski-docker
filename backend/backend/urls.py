@@ -1,4 +1,4 @@
-"""Эндпоинты для проекта."""
+"""Эндпоинты для проекта Taski."""
 
 from api import views
 from django.contrib import admin
